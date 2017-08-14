@@ -1,16 +1,16 @@
-# CS 190 Lab 1 (Fall 2016) - What Does the _____ Say? 
+# CS 193 Lab 1 (Fall 2017) - What Does the _____ Say? 
 
 The purpose of this lab is to teach the basics of using the terminal. After you finish this lab, you will be able to manipulate files on any UNIX-like machine (including your Purdue CS account)!
 
 ## The Lab 
 
-Before starting the lab, you might want to check out the [Lecture 1 Cheat Sheet](https://github.com/Purdue-CSUSB/CS-190-S2017/blob/master/labs/lab1/lecture01-basic-terminal-commands.md) to review all the common commands. 
+Before starting the lab, you might want to check out the [Lecture 1 Cheat Sheet](https://github.com/Purdue-CSUSB/CS-193-F2017/blob/master/labs/lab1/lecture01-basic-terminal-commands.md) to review all the common commands. 
 
 Throughout this lab we will give you specific goals and you will have to write the appropriate command to fulfill that goal. The catch is that **all answers should only contain one command** (`mv`, `cp`, `rm`, etc.). 
 
 
 ### The Magic Command 
-    cd; curl -sL https://github.com/Purdue-CSUSB/CS-190-S2017/raw/master/labs/lab1/lab1init | bash
+    cd; curl -sL https://github.com/Purdue-CSUSB/CS-193-F2017/raw/master/labs/lab1/lab1init | bash
 
 When you run the command above, the starting folder structure for this lab will be created in your home `~` directory. If you mess anything up in this lab and want to start over, you can run this command. Be careful though, since this will erase your progress.
 
@@ -18,7 +18,7 @@ When you run the command above, the starting folder structure for this lab will 
 ### Folder Structure 
 Below is the folder structure that is generated from running the "Magic Command". As you can see, there are some problems. For example, dog sounds are in the cat/sounds folder. Throughout this lab, you will write terminal commands that fix some of the mistakes.
 
-        cs190lab1/
+        cs193lab1/
         ├── cat/
         │   ├── famous cats/
         │   │   ├── Garfield
@@ -65,14 +65,14 @@ There are 6 tasks, and you will write 6 **one line** terminal commands that fulf
 
 **All commands should be recorded in answers.txt.** To download the answer sheet below, right-click on the file and click "Save File As" and save it to your **Downloads** folder.
 
-[answers.txt Download Link](https://raw.githubusercontent.com/Purdue-CSUSB/CS-190-S2017/master/labs/lab1/answers.txt)
+[answers.txt Download Link](https://raw.githubusercontent.com/Purdue-CSUSB/CS-193-F2017/master/labs/lab1/answers.txt)
 
-> NOTE: Do not save this file within `~/cs190lab1` because that folder and all of its contents will be erased each time you run the "Magic Script"
+> NOTE: Do not save this file within `~/cs193lab1` because that folder and all of its contents will be erased each time you run the "Magic Script"
 
 
 #### Example: Task 0 
 
-    Working Directory:  ~/cs190lab1/
+    Working Directory:  ~/cs193lab1/
 
     Desired Action:     print out only the names of the normal folders and files in the cat/ folder and the dog/ folder
 
@@ -105,7 +105,7 @@ Solve all 6 of these tasks, and record your answers in the `answers.txt` file.
 
 #### Task 1 
 
-    Working Directory:  ~/cs190lab1/
+    Working Directory:  ~/cs193lab1/
 
     Desired Action:     remove the human/ folder from the working directory
 
@@ -113,7 +113,7 @@ Solve all 6 of these tasks, and record your answers in the `answers.txt` file.
 
 #### Task 2 
 
-    Working Directory:  ~/cs190lab1/
+    Working Directory:  ~/cs193lab1/
 
     Desired Action:     create a folder named mouse/ with the subfolders [sounds] and [famous mice]  
                         (may not use MORE THAN TWO path arguments)
@@ -123,7 +123,7 @@ Solve all 6 of these tasks, and record your answers in the `answers.txt` file.
 
 #### Task 3 
 
-    Working Directory:  ~/cs190lab1/
+    Working Directory:  ~/cs193lab1/
 
     Desired Action:     move the dog sounds from the cat/sounds/ folder to dog/sounds/ folder
                         (may not explicitly list files in command)
@@ -132,7 +132,7 @@ Solve all 6 of these tasks, and record your answers in the `answers.txt` file.
 
 #### Task 4 
 
-    Working Directory:  ~/cs190lab1/dog
+    Working Directory:  ~/cs193lab1/dog
 
     Desired Action:     rename the folder [famous cows] to [famous dogs]
 
@@ -140,7 +140,7 @@ Solve all 6 of these tasks, and record your answers in the `answers.txt` file.
 
 #### Task 5 
 
-    Working Directory:  ~/cs190lab1/fox/sounds
+    Working Directory:  ~/cs193lab1/fox/sounds
 
     Desired Action:     copy [ding ding ding] to a new file named [ding ding ding ding]
 
@@ -148,11 +148,11 @@ Solve all 6 of these tasks, and record your answers in the `answers.txt` file.
 
 #### Task 6 
 
-    Working Directory:  ~/cs190lab1/cat/sounds
+    Working Directory:  ~/cs193lab1/cat/sounds
 
-    Desired Action:     move files that are cat sounds from parent directory (~/cs190lab1/cat)
+    Desired Action:     move files that are cat sounds from parent directory (~/cs193lab1/cat)
                         to the current working directory
-                        (may not use definite paths such as ~/cs190lab1/cat)
+                        (may not use definite paths such as ~/cs193lab1/cat)
 
     Write the answer under the Task 6 block. Make sure not to put '#' before your answer.
 
@@ -171,14 +171,14 @@ That was the last task! Before you leave...
 There's a few accounts you'll want to sign up for if you haven't already. We will be using them later in the course.
 
 * Github is awesome, so sign up when you get the chance. If you use your Purdue email, you'll get some extra stuff for free. You can click [here](https://education.github.com) for more information.
-* Sign up for the [CS 190 Piazza](https://piazza.com/purdue/spring2017/cs190/home) if you haven't already. This will help you stay informed about what's going on in the class. 
+* Sign up for the [CS 193 Piazza](https://piazza.com/purdue/fall2017/cs193/home) if you haven't already. This will help you stay informed about what's going on in the class. 
 
 <!---
 * While you're at it, you should apply to Purdue's hackathon [here](http://boilermake.org).
 -->
 
 ###Some useful links
-* The syllabus for this course can be found [here](https://github.com/Purdue-CSUSB/CS-190-S2017/tree/master/syllabus) if you need it.
+* The syllabus for this course can be found [here](https://github.com/Purdue-CSUSB/CS-193-F2017/tree/master/syllabus) if you need it.
 
 
 ## Extra Fun 
@@ -188,15 +188,15 @@ If you want to run your answers.txt as a script, run the following command in th
 
     bash answers.txt
 
-Now look at the entire folder structure of your `~/cs190lab1` folder by running the following command:
+Now look at the entire folder structure of your `~/cs193lab1` folder by running the following command:
 
-    ls -al ~/cs190lab1/*/*
+    ls -al ~/cs193lab1/*/*
 
 
 ## More Extra Fun 
-View the [source](https://github.com/Purdue-CSUSB/CS-190-S2017/blob/master/labs/lab1/lab1init) of the Magic script. You know almost everything that is going on in this script!
+View the [source](https://github.com/Purdue-CSUSB/CS-193-F2017/blob/master/labs/lab1/lab1init) of the Magic script. You know almost everything that is going on in this script!
 
 ----
 
 
-*If you find any bugs within the code or misspellings in the write-up, please email us at cs190-tas@cs.purdue.edu!*
+*If you find any bugs within the code or misspellings in the write-up, please email us at cs193-tas@cs.purdue.edu!*
