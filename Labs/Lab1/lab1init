@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+
+# clean slate
+rm -rf ~/cs193lab1
+
+mkdir -p ~/cs193lab1/cat/famous\ cats ~/cs193lab1/cat/sounds
+mkdir -p ~/cs193lab1/dog/famous\ cows ~/cs193lab1/dog/sounds
+mkdir -p ~/cs193lab1/fox/famous\ foxes ~/cs193lab1/fox/sounds
+mkdir -p ~/cs193lab1/human/famous\ humans ~/cs193lab1/human/sounds
+
+
+touch ~/cs193lab1/cat/famous\ cats/{Garfield,"Grumpy Cat",Tom}
+touch ~/cs193lab1/cat/sounds/{cat_hiss,dog_bark,dog_howl,dog_woof}
+touch ~/cs193lab1/cat/{cat_meow,cat_purr}
+
+touch ~/cs193lab1/dog/famous\ cows/{"Air Bud",Blue,Clifford}
+
+
+touch ~/cs193lab1/fox/famous\ foxes/{"Fox McCloud","Pablo the Little Red Fox",Swiper}
+touch ~/cs193lab1/fox/sounds/{ding,"ding ding","ding ding ding"}
+
+touch ~/cs193lab1/human/famous\ humans/{"Albert Einstein","Michael Jordan","Kirby Kohlmorgen"}
+touch ~/cs193lab1/human/sounds/{human_cry,human_laugh,human_whistle}
+
+# say its done
+echo -e '\ndirectory ~/cs193lab1 reset!'
