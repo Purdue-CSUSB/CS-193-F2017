@@ -65,7 +65,7 @@ There are 6 tasks, and you will write 6 **one line** terminal commands that fulf
 
 **All commands should be recorded in answers.txt.** To download the answer sheet below, right-click on the file and click "Save File As" and save it to your **Downloads** folder.
 
-[answers.txt Download Link](https://raw.githubusercontent.com/Purdue-CSUSB/CS-193-F2017/master/labs/lab1/answers.txt)
+[answers.txt Download Link](https://raw.githubusercontent.com/Purdue-CSUSB/CS-193-F2017/master/Labs/Lab1/answers.txt)
 
 > NOTE: Do not save this file within `~/cs193lab1` because that folder and all of its contents will be erased each time you run the "Magic Script"
 
@@ -178,7 +178,7 @@ There's a few accounts you'll want to sign up for if you haven't already. We wil
 -->
 
 ###Some useful links
-* The syllabus for this course can be found [here](https://github.com/Purdue-CSUSB/CS-193-F2017/tree/master/syllabus) if you need it.
+* The syllabus for this course can be found [here](http://courses.cs.purdue.edu/cs19300:fall17:start) if you need it.
 
 
 ## Extra Fun 
@@ -194,7 +194,7 @@ Now look at the entire folder structure of your `~/cs193lab1` folder by running 
 
 
 ## More Extra Fun 
-View the [source](https://github.com/Purdue-CSUSB/CS-193-F2017/blob/master/labs/lab1/lab1init) of the Magic script. You know almost everything that is going on in this script!
+View the [source](https://github.com/Purdue-CSUSB/CS-193-F2017/blob/master/Labs/Lab1/lab1init) of the Magic script. You know almost everything that is going on in this script!
 
 ----
 
