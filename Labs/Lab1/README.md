@@ -4,7 +4,7 @@ The purpose of this lab is to teach the basics of using the terminal. After you 
 
 ## The Lab 
 
-Before starting the lab, you might want to check out the [Lecture 1 Cheat Sheet](https://github.com/Purdue-CSUSB/CS-193-F2017/blob/master/labs/lab1/lecture01-basic-terminal-commands.md) to review all the common commands. 
+Before starting the lab, you might want to check out the [Lecture 1 Cheat Sheet](https://github.com/Purdue-CSUSB/CS-193-F2017/blob/master/Labs/Lab1/lecture01-basic-terminal-commands.md) to review all the common commands. 
 
 Throughout this lab we will give you specific goals and you will have to write the appropriate command to fulfill that goal. The catch is that **all answers should only contain one command** (`mv`, `cp`, `rm`, etc.). 
 
