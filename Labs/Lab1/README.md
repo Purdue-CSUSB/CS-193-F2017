@@ -10,7 +10,7 @@ Throughout this lab we will give you specific goals and you will have to write t
 
 
 ### The Magic Command 
-    cd; curl -sL https://github.com/Purdue-CSUSB/CS-193-F2017/raw/master/labs/lab1/lab1init | bash
+    cd; curl -sL https://raw.githubusercontent.com/Purdue-CSUSB/CS-193-F2017/master/Labs/Lab1/lab1init | bash
 
 When you run the command above, the starting folder structure for this lab will be created in your home `~` directory. If you mess anything up in this lab and want to start over, you can run this command. Be careful though, since this will erase your progress.
 
