@@ -1,0 +1,79 @@
+#!/usr/bin/env bash
+
+# CS193 Lab1 Answer Sheet
+
+# NOTE: Ignore the line directly below any "# ignore" statement.
+
+# ignore
+cd; curl -sL https://raw.githubusercontent.com/Purdue-CSUSB/CS-193-S2017/master/labs/lab1/lab1init | bash
+
+# ignore
+cd ~/cs193lab1
+
+
+# ==========================
+# Directions
+# ==========================
+# Follow the format below to answer each numbered task.
+#
+# -----------------
+# Task 0 Answer
+# -----------------
+ls cat
+
+
+
+
+
+# ==========================
+# Beginning of answer sheet.
+# ==========================
+
+
+# ignore
+cd ~/cs193lab1
+
+
+# -----------------
+# Task 1 Answer
+# -----------------
+
+
+# -----------------
+# Task 2 Answer
+# -----------------
+
+
+# -----------------
+# Task 3 Answer
+# -----------------
+
+
+
+# ignore
+cd ~/cs193lab1/dog
+
+
+# -----------------
+# Task 4 Answer
+# -----------------
+
+
+
+# ignore
+cd ~/cs193lab1/fox/sounds
+
+
+# -----------------
+# Task 5 Answer
+# -----------------
+
+
+
+# ignore
+cd ~/cs193lab1/cat/sounds
+
+
+# -----------------
+# Task 6 Answer
+# -----------------
