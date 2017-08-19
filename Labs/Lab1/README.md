@@ -199,4 +199,4 @@ View the [source](https://github.com/Purdue-CSUSB/CS-193-F2017/blob/master/Labs/
 ----
 
 
-*If you find any bugs within the code or misspellings in the write-up, please email us at cs193-tas@cs.purdue.edu!*
+*If you find any bugs within the code or misspellings in the write-up, please email me at ssagheer@purdue.edu!*
