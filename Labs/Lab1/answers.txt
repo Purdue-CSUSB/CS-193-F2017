@@ -5,7 +5,7 @@
 # NOTE: Ignore the line directly below any "# ignore" statement.
 
 # ignore
-cd; curl -sL https://raw.githubusercontent.com/Purdue-CSUSB/CS-193-S2017/master/labs/lab1/lab1init | bash
+cd; curl -sL https://raw.githubusercontent.com/Purdue-CSUSB/CS-193-F2017/master/Labs/Lab1/lab1init | bash
 
 # ignore
 cd ~/cs193lab1
