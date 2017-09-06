@@ -2,7 +2,7 @@
 
 The purpose of this lab is for you to learn and customize parts of your shell in order become more efficient. After you finish this lab, you will have a colorful terminal and be able to create short programs and run them from your home directory.
 
-Before starting the lab, **OPEN THE [REFERENCE SHEET](https://github.com/Purdue-CSUSB/CS-193-F2017/blob/master/labs/lab3/lecture03-your-environment.md)**
+Before starting the lab, **OPEN THE [REFERENCE SHEET](https://github.com/Purdue-CSUSB/CS-193-F2017/blob/master/Labs/Lab2/your_environment.md)**
 
 ### The Magic Command ###
 
