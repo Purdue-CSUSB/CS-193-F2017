@@ -1,0 +1,12 @@
+#/bin/bash
+
+# clean slate
+rm -rf ~/cs193lab2
+
+wget https://github.com/Purdue-CSUSB/CS-193-F2017/blob/master/Labs/Lab2/dirinfo
+
+mkdir -p ~/bin
+mv dirinfo ~/bin
+
+# say its done
+echo -e '\ndirectory ~/cs193lab2 reset!'
