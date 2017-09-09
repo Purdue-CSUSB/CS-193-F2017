@@ -20,18 +20,18 @@
 #       to look the same as below. Make it how YOU want it to look.
 #
 # $ dirinfo
-# CWD: /homes/kkohlmor/cs190lab3
+# CWD: /homes/ssagheer/cs193lab2
 # 
 # --- Contents ---
-# drwx--S---  3 kkohlmor kkohlmor  4096 Oct 29 04:24 .
-# drwx--S--x 42 kkohlmor kkohlmor  4096 Oct 29 04:22 ..
-# -rw-r-----  1 kkohlmor kkohlmor  1249 Oct 28 19:47 .bash_profile
-# -rwxr-x---  1 kkohlmor kkohlmor   744 Oct 28 19:49 .bashrc
-# drwx--S---  7 kkohlmor kkohlmor  4096 Oct 29 04:22 .git
-# -rw-r-----  1 kkohlmor kkohlmor  1585 Oct 29 02:14 .zshrc
-# -rw-r-----  1 kkohlmor kkohlmor   198 Oct 29 03:45 README.md
-# -rw-r-----  1 kkohlmor kkohlmor   201 Oct 29 04:22 dirinfo
-# -rwxr-x---  1 kkohlmor kkohlmor  1341 Oct 29 01:39 install.sh
+# drwx--S---  3 ssagheer ssagheer  4096 Oct 29 04:24 .
+# drwx--S--x 42 ssagheer ssagheer  4096 Oct 29 04:22 ..
+# -rw-r-----  1 ssagheer ssagheer  1249 Oct 28 19:47 .bash_profile
+# -rwxr-x---  1 ssagheer ssagheer   744 Oct 28 19:49 .bashrc
+# drwx--S---  7 ssagheer ssagheer  4096 Oct 29 04:22 .git
+# -rw-r-----  1 ssagheer ssagheer  1585 Oct 29 02:14 .zshrc
+# -rw-r-----  1 ssagheer ssagheer   198 Oct 29 03:45 README.md
+# -rw-r-----  1 ssagheer ssagheer   201 Oct 29 04:22 dirinfo
+# -rwxr-x---  1 ssagheer ssagheer  1341 Oct 29 01:39 install.sh
 
 
 
