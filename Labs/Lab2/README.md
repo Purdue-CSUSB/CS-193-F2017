@@ -79,7 +79,7 @@ In this task, you will be working with the environment variable named `PWD`.
 
 ## Part 2 - CWD Info Script ##
 
-There is a shell script named `dirinfo` in your `~/bin` directory. You can edit this file in a text editor (like pluma). 
+There is a shell script named `dirinfo` in your `~/bin` directory. You can edit this file in a text editor (like gedit). 
 
 
 1. Under "Command A", add the code to print the current working directory like you did in Part 1. 
@@ -91,7 +91,7 @@ Detailed instructions are included in the comments of the `dirinfo` script.
 
 Remember that you can open the file using this command:
 
-    pluma ~/bin/dirinfo &
+    gedit ~/bin/dirinfo &
 
 #### Man Pages ####
 
@@ -165,7 +165,7 @@ You can see a list of available themes [here](https://github.com/robbyrussell/oh
 
 To do so, run
 
-    pluma ~/.zshrc &
+    gedit ~/.zshrc &
 
 After you've changed your `ZSH_THEME` run the following command to reload your changes
 
