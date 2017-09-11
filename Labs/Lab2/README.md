@@ -29,9 +29,9 @@ We say to only run this once because it will overwrite your old copy, so if you 
 - There is an environment variable called PWD, among many other ones
 - To print it, you can execute `echo $PWD`
 
-##### Opening Files in pluma #####
+##### Opening Files in gedit #####
 
-    pluma <filename>  # ex. pluma ~/.zshrc
+    gedit <filename>  # ex. gedit ~/.zshrc
 
 ##### Ampersand #####
 
@@ -40,9 +40,9 @@ We say to only run this once because it will overwrite your old copy, so if you 
 - Allows you to continue to use the shell without terminating the process
 
 ```
-pluma <filename>    # locks up the terminal, when you quit terminal, gedit gets killed.
+gedit <filename>    # locks up the terminal, when you quit terminal, gedit gets killed.
 
-pluma <filename> &  # terminal is not locked up, pluma is detached, terminal and pluma
+gedit <filename> &  # terminal is not locked up, gedit is detached, terminal and gedit
                    # are not linked in any way
 ```
 
