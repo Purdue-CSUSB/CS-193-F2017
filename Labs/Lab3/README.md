@@ -18,7 +18,7 @@ We will be working with the DrJava source code again this week. If you are worki
 We have seeded the DrJava source code with some bugs that you will use your editing skills to fix. Run this command to download the buggy source code:
 
 ```bash
-wget -N -P ~ https://raw.githubusercontent.com/Purdue-CSUSB/CS-193-F2017/master/labs/lab4/buggy-drjava.tar.gz
+wget -N -P ~ https://raw.githubusercontent.com/Purdue-CSUSB/CS-193-F2017/master/Labs/Lab3/buggy-drjava.tar.gz
 ```
 
 Extract the code in your home directory by running the command:
