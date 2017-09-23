@@ -2,7 +2,7 @@
 
 The purpose of this lab is for you to learn the basics of Vim and Sublime Text. After you finish this lab, you will have a much better understanding of text editing for programming
 
-Before starting the lab, **OPEN THE [REFERENCE SHEET](https://github.com/Purdue-CSUSB/CS-193-S2017/blob/master/labs/lab4/lecture04-vim-sublime.md)**
+Before starting the lab, **OPEN THE [REFERENCE SHEET](https://github.com/Purdue-CSUSB/CS-193-F2017/blob/master/Labs/Lab3/lecture03-vim-sublime.md)**
 
 ## Part 1 - Vim
 
