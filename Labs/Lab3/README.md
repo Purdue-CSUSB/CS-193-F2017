@@ -142,9 +142,9 @@ yourself with `mkdir`).
 Download `animals.txt` and `animal-stats.rb` using `wget`. The URLs are:
 
 ```
-https://raw.githubusercontent.com/Purdue-CSUSB/CS-190-S2017/master/labs/lab4/animals.txt
+https://raw.githubusercontent.com/Purdue-CSUSB/CS-193-F2017/master/Labs/Lab3/animals.txt
 and
-https://raw.githubusercontent.com/Purdue-CSUSB/CS-190-S2017/master/labs/lab4/animal-stats.rb
+https://raw.githubusercontent.com/Purdue-CSUSB/CS-193-F2017/master/Labs/Lab3/animal-stats.rb
 ```
 
 Next you need to install Sublime on your system. Run the following commands:
