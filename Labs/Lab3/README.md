@@ -58,7 +58,7 @@ vim src/edu/rice/cs/drjava/DrJava.java
 ```
 
 * The problem is that each "static" keyword is misspelled as "statc". Use a vim command
-to replace all instances of "statc" to "static" in this file (Hint: you can find how do do this in the [lecture slides](https://docs.google.com/presentation/d/1p5Bsy503w449pXEM6EkqNOje-rfHVAaIwB3gPkcwplc/edit?usp=sharing))
+to replace all instances of "statc" to "static" in this file (Hint: you can find how do do this in the [lecture slides](https://docs.google.com/presentation/d/1P0CS1txS20O5MfDfsPislSobwjVltefaEXp3PghsbXo/edit))
 
 #### Fix logical error
 
