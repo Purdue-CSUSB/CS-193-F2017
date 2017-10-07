@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+
+# clean slate
+rm -rf ~/cs193lab4
+
+wget -P ~ https://github.com/Purdue-CSUSB/CS-193-S2017/raw/master/labs/lab4/cs193lab4.tgz
+tar -xzf ~/cs193lab4.tgz -C ~
+rm -rf ~/cs193lab4.tgz
+
+# say its done
+echo -e '\ndirectory ~/cs193lab4 reset!'
