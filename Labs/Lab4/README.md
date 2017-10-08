@@ -2,7 +2,7 @@
 
 The purpose of this lab is to teach some more advanced shell commands. After you finish this lab, you will be able to search for files and text, and be able to further learn any command desired.
 
-Before starting the lab, **OPEN THE [REFERENCE SHEET](https://github.com/Purdue-CSUSB/CS-190-S2017/blob/master/labs/lab2/lecture02-more-terminal.md)**
+Before starting the lab, **OPEN THE [REFERENCE SHEET](https://github.com/Purdue-CSUSB/CS-193-S2017/blob/master/labs/lab4/lecture04-more-terminal.md)**
 
 ## Setup ##
 
@@ -69,7 +69,7 @@ Your answers.txt file is now located in your home directory at `~/answers.txt`.
 
 #### Task 2a - inconvenient text input/output ####
 
-    Working Directory:  ~/cs190lab2/
+    Working Directory:  ~/cs193lab4/
 
     Command:            bash madlib
 
@@ -144,13 +144,13 @@ First you need to get the DrJava source code. Run:
 4. Tell ant where Java 8 is
 
     ```
-    export JAVA8_HOME=$(java-config --jdk-home)
+    export JAVA8_HOME=/usr/lib/jvm/java-8-oracle/
     ```
 
 5. Recompile DrJava by running the command
 
     ```
-    cd ~/cs190lab2/drjava; ant jar
+    java -jar ~/cs193lab3/drjava/drjava.jar
     ```
 
 6. Run the new DrJava by running the command
