@@ -138,7 +138,7 @@ First you need to get the DrJava source code. Run:
 
     Working Directory:  ~/cs193lab4/drjava
 
-1. Open the FILE FOUND IN THE PREVIOUS TASK and navigate to the line number in 349 in vim. 
+1. Open the FILE FOUND IN THE PREVIOUS TASK. 
 2. Replace the string `"Are you sure you want to quit DrJava?"` with `"DONT QUIT LOVE ME!"`
 3. Save the file
 4. Tell ant where Java 8 is
