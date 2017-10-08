@@ -2,7 +2,7 @@
 
 The purpose of this lab is to teach some more advanced shell commands. After you finish this lab, you will be able to search for files and text, and be able to further learn any command desired.
 
-Before starting the lab, **OPEN THE [REFERENCE SHEET](https://github.com/Purdue-CSUSB/CS-193-S2017/blob/master/labs/lab4/lecture04-more-terminal.md)**
+Before starting the lab, **OPEN THE [REFERENCE SHEET](https://github.com/Purdue-CSUSB/CS-193-F2017/blob/master/Labs/Lab4/lecture04-more-terminal.md)**
 
 ## Setup ##
 
@@ -39,7 +39,7 @@ X11 forwarding is an awesome feature of ssh. Normally when you ssh into a lab ma
 ----
 
 ### The Magic Command ###
-    cd; curl -sL https://raw.githubusercontent.com/Purdue-CSUSB/CS-193-S2016/master/labs/lab4/lab4init | bash
+    cd; curl -sL https://raw.githubusercontent.com/Purdue-CSUSB/CS-193-F2017/master/Labs/Lab4/lab4init | bash
 
 Copy the command above and run it within the terminal. It will create a folder named `cs193lab4` located within your home directory.
 
@@ -58,7 +58,7 @@ This section is just like the last lab. You are given tasks that each have:
 
     Working Directory:  your home directory
 
-    File URL:           https://github.com/Purdue-CSUSB/CS-193-S2017/raw/master/labs/lab4/answers.txt
+    File URL:           https://raw.githubusercontent.com/Purdue-CSUSB/CS-193-F2017/master/Labs/Lab4/answers.txt
 
     Desired Action:     download the answers.txt file from the URL above using the terminal
                         (may not use browser!)
