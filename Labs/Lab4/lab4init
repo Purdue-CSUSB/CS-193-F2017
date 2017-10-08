@@ -3,7 +3,7 @@
 # clean slate
 rm -rf ~/cs193lab4
 
-wget -P ~ https://github.com/Purdue-CSUSB/CS-193-F2017/blob/master/Labs/Lab4/cs193lab4.tgz?raw=true
+wget -P ~ https://github.com/Purdue-CSUSB/CS-193-F2017/raw/master/Labs/Lab4/cs193lab4.tgz
 tar -xzf ~/cs193lab4.tgz -C ~
 rm -rf ~/cs193lab4.tgz
 
