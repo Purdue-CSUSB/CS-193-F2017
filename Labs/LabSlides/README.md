@@ -4,3 +4,5 @@ Lecutre 2 Recap: https://docs.google.com/presentation/d/1agIA1L0KI3546ZUNKwew2TV
 
 Lecture 3 Recap: https://docs.google.com/presentation/d/1LTT3Ec_heDRjTVOsWWVo83-vl32eiK8j0y_XkGTMmk8/edit?usp=sharing
 
+Lecture 4 Recap: https://docs.google.com/presentation/d/1_khImJbuy55gRnh6UaNZKxxGrmkz--PkHEWRLWX3API/edit?usp=sharing
+
