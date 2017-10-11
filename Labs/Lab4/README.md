@@ -150,13 +150,13 @@ First you need to get the DrJava source code. Run:
 5. Recompile DrJava by running the command
 
     ```
-    java -jar ~/cs193lab3/drjava/drjava.jar
+    cd ~/cs193lab4/drjava; ant jar
     ```
 
 6. Run the new DrJava by running the command
 
     ```
-    java -jar ~/cs190lab2/drjava/drjava.jar
+    java -jar ~/cs193lab4/drjava/drjava.jar
     ```
 
 7. Quit DrJava to see your new message!
