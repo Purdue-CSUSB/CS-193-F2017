@@ -10,7 +10,7 @@ Use `wget` to download the source code for this lab.
 
 You can find the java file at:
 
-https://raw.githubusercontent.com/Purdue-CSUSB/CS-190-S2017/master/labs/lab5/Transformer.tar.gz
+https://raw.githubusercontent.com/Purdue-CSUSB/CS-193-F2017/master/Labs/Lab5/Transformer.tar.gz
 
 Untar the source project by running the command `tar -zxvf Transformer.tar.gz` in the directory where you downloaded it.
 
