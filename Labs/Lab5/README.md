@@ -128,6 +128,8 @@ Explain to a TA what debugging method you used.
 
 Explain each bug to a TA and say how you fixed it.
 
+Complete this short survey here: https://goo.gl/forms/k6dg4M1vSlIkitEC3 and show your TA the completed form. 
+
 
 ## End of Lab ##
 
