@@ -2,7 +2,7 @@
 
 The purpose of this lab is to gain a workable knowledge of git and GitHub. Not only is this a powerful tool for assuring you get the best grade possible on your projects, protecting you from losing code, and collaborating, but it is also a necessary skill in the work place. You will never have a computer science job that doesn't require the use of a version control system.
 
-__For quick reference on the git commands we covered, see the cheat sheet [here] (https://github.com/Purdue-CSUSB/CS-190-S2017/blob/master/labs/lab6/lecture06-git.md)__
+__For quick reference on the git commands we covered, see the cheat sheet (https://github.com/Purdue-CSUSB/CS-193-F2017/blob/master/Labs/Lab6/lecture06-git.md)__
 
 ## The Lab
 
