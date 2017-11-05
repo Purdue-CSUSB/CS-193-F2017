@@ -9,3 +9,5 @@ Lab Lecture Slides:
 * [Lab 4](https://docs.google.com/presentation/d/1_khImJbuy55gRnh6UaNZKxxGrmkz--PkHEWRLWX3API/edit?usp=sharing)
 
 * [Lab 5](https://docs.google.com/presentation/d/1yfpgJ9-kLwDcMU-8318EZJPyZ3lyM0zU1Yz6a1H36Xo/edit?usp=sharing)
+
+* [Lab 6](https://docs.google.com/presentation/d/1mT6jDzz1ZDsJ81NWxWKCvgQiaiiMqnFHwbqdNX517Us/edit?usp=sharing)
