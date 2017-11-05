@@ -23,7 +23,7 @@ git config --global user.email $USER@purdue.edu
 
 We will now get the code for the lab from GitHub. Before you continue, you must have a GitHub account. You should have made one in an earlier lab, but if you don't already have one, sign up [here](https://github.com/join).
 
-Navigate to the project page that can be found at https://github.com/Purdue-CSUSB/pycalc. In the top right-hand corner, press the "Fork" button.
+Navigate to the project page that can be found at https://github.com/Purdue-CSUSB/pycalc. In the top right-hand corner, press the "Fork" button. You should also hit the star button!
 
 ![Fork screenshot](https://raw.githubusercontent.com/Purdue-CSUSB/CS-190-S2017/master/labs/lab6/assets/fork-screenshot.png)
 
