@@ -10,3 +10,5 @@
 
 [Lecture 6](https://docs.google.com/presentation/d/1ht2yJMFSyOWVev202lxyFt8qBPIV2heK_8-lLV5BSPs/edit?usp=sharing)
 
+[Lecture 7](https://docs.google.com/presentation/d/1VTZTPy7HmfKAGpmwF1gLIEeiY5g_3q-ADwwpupmL064/edit?usp=sharing)
+
