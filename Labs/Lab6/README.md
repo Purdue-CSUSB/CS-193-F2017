@@ -46,7 +46,7 @@ where `<clone URL>` is the URL you just copied to your clipboard.
 
 ## Step 0: The project
 
-The project we will be working with is a simple 4-function calculator written in Python. See the [project page](https://github.com/Purdue-CSUSB/pycalc) for steps on how to use the calculator on how to use the calculator.
+The project we will be working with is a simple 4-function calculator written in Python. See the [project page](https://github.com/Purdue-CSUSB/pycalc) for steps on how to use the calculator.
 
 ## Step 1: Check the status of the repo
 
@@ -110,7 +110,7 @@ Again, add the files to track their changes in git. Commit the change you made, 
 
 The current state of our calculator isn't so great. It prints a welcome message (nice!) but it doesn't subtract properly (yikes!).
 
-Run `git log`. Find the commit that you breaks the subtraction function (it should be the second from the top) and copy the commit hash.
+Run `git log`. Find the commit that breaks the subtraction function (it should be the second from the top) and copy the commit hash.
 
 Run `git revert <commit_hash>`. This will open up an editor with a commit that says something like
 "Revert '*some message*' This commit reverts *some commit hash*".
